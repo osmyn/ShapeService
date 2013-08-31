@@ -1,0 +1,5 @@
+﻿triangle, 5, 6, yellow
+square, 8, red
+circle, 3, blue
+triangle, 5, 6, green
+rectangle, 10, 5, purple

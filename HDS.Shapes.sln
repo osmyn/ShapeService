@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDS.Shapes", "HDS.Shapes\HDS.Shapes.csproj", "{9E4AA7EE-B138-4C74-ABC8-C01414BF5916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDS.FileHandler", "HDS.FileHandler\HDS.FileHandler.csproj", "{A5488F46-6E4F-49C9-8004-714E4EEDB3A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HDS.Shapes.Service", "HDS.Shapes.Service\HDS.Shapes.Service.csproj", "{94CD66E2-5775-42A7-BE04-67044E9319EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E4AA7EE-B138-4C74-ABC8-C01414BF5916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4AA7EE-B138-4C74-ABC8-C01414BF5916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4AA7EE-B138-4C74-ABC8-C01414BF5916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4AA7EE-B138-4C74-ABC8-C01414BF5916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5488F46-6E4F-49C9-8004-714E4EEDB3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5488F46-6E4F-49C9-8004-714E4EEDB3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5488F46-6E4F-49C9-8004-714E4EEDB3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5488F46-6E4F-49C9-8004-714E4EEDB3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CD66E2-5775-42A7-BE04-67044E9319EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CD66E2-5775-42A7-BE04-67044E9319EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CD66E2-5775-42A7-BE04-67044E9319EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CD66E2-5775-42A7-BE04-67044E9319EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
